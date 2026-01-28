@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.837ff73f.css",
+    "main.js": "/personal-website/static/js/main.c19d1ef0.js",
+    "static/js/453.e7f01505.chunk.js": "/personal-website/static/js/453.e7f01505.chunk.js",
+    "static/media/mock07.png": "/personal-website/static/media/mock07.e1cdf3e1a6b2fd766b0e.png",
+    "static/media/mock06.png": "/personal-website/static/media/mock06.040d35331f6a46fb75ec.png",
+    "static/media/mock10.png": "/personal-website/static/media/mock10.25cdf9404b3c82e9d9d0.png",
+    "static/media/mock08.png": "/personal-website/static/media/mock08.882cc8537796c79d810e.png",
+    "static/media/bg-light.png": "/personal-website/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/personal-website/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/ricelogo.png": "/personal-website/static/media/ricelogo.f299bf4a5ea750632cfb.png",
+    "static/media/nsbelogo.png": "/personal-website/static/media/nsbelogo.25dcf00f584496143fbd.png",
+    "static/media/questberidgelogo.png": "/personal-website/static/media/questberidgelogo.c88544c06471c5cb8eba.png",
+    "index.html": "/personal-website/index.html",
+    "main.837ff73f.css.map": "/personal-website/static/css/main.837ff73f.css.map",
+    "main.c19d1ef0.js.map": "/personal-website/static/js/main.c19d1ef0.js.map",
+    "453.e7f01505.chunk.js.map": "/personal-website/static/js/453.e7f01505.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.837ff73f.css",
+    "static/js/main.c19d1ef0.js"
+  ]
+}
