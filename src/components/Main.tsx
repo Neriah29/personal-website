@@ -2,6 +2,7 @@ import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
+import profilepic from '../assets/images/profilepic.jpeg';
 
 function Main() {
 
@@ -9,7 +10,7 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src="https://media.licdn.com/dms/image/v2/D5603AQFRfAdufRLAow/profile-displayphoto-scale_400_400/B56ZtiU4SOJcAg-/0/1766881199942?e=1773273600&v=beta&t=JrnffiuJp7D1fhJGHfbEgw0DjKx_MWVMMvVt714Ld1I" alt="Avatar" />
+          <img src={profilepic} alt="Avatar" />
         </div>
         <div className="content">
           <div className="social_icons">
