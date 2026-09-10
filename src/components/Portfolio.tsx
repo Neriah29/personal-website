@@ -79,7 +79,7 @@ const EXPERIENCE: Experience[] = [
     org: "Rice African Students Association",
     logo: ricelogo,
     where: "Houston, TX",
-    date: "2025 — present",
+    date: "2025 — 2026",
     note: "Building bridges across Rice's African community",
   },
   {
